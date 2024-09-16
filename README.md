@@ -1,7 +1,7 @@
 # Amazon Product Analysis and Dashboard
 
-### Front Page - Overview
 <img width="1502" alt="image" src="https://github.com/user-attachments/assets/dc877c1e-6543-413b-b76d-a1eba8571631">
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.4+-orange.svg) ![NumPy](https://img.shields.io/badge/NumPy-Supported-lightblue.svg) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-yellow.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-brightgreen.svg) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg) ![Big Data](https://img.shields.io/badge/Big%20Data-Handled-green.svg)
 
