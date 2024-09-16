@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project demonstrates how to handle **large datasets (1.1M+ entries)** effectively, applying **deep data exploration, cleaning, preprocessing, and visualization** techniques. With this project, I have perpared end-to-end **data analysis pipelines** and **interactive dashboards**, leveraging **Python, Pandas, Streamlit**, and advanced visualization techniques.
+This project demonstrates how to handle **large datasets (1.1M+ entries)** effectively, applying **deep data exploration, cleaning, preprocessing, and visualization** techniques. With this project, I have created a end-to-end **data analysis pipelines** and **interactive dashboards**, leveraging **Python, Pandas, Streamlit**, and advanced visualization techniques.
 
 The primary goal of this project is to uncover valuable insights from Amazon's e-commerce dataset, which includes features such as ratings, product categories, prices, and discounts.
 
