@@ -1,10 +1,10 @@
+# Large file types tracked with Git LFS
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 demo.mp4 filter=lfs diff=lfs merge=lfs -text
-# Ignore Mac system files
-.DS_Store
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-# Ignore Streamlit files (optional)
-.streamlit/
+
+# Text files and other files will not use Git LFS
+*.ipynb -text
+README.md -text
+
