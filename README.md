@@ -21,18 +21,18 @@ The primary goal of this project is to uncover valuable insights from Amazon's e
 
 | Dataset Type                 | Status                   | Link/Artifact                    |
 |------------------------------|--------------------------|-----------------------------------|
-| Full Amazon Dataset (1.1M+)   | ✅ Loaded Successfully    | [amazon_data folder](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)           |
-| CSV Merging (140 CSV files)   | ✅ Merged Successfully    | [merge_df.parquet](#)             |
-| Missing Values Imputation     | ✅ Handled Completely     | [Amazon_EDA&Data_Visualization.ipynb](#) |
-| Outlier Detection & Handling  | ✅ Processed Successfully | [Amazon_EDA&Data_Visualization.ipynb](#) |
-| Feature Engineering           | ✅ Completed              | [Amazon_EDA&Data_Visualization.ipynb](#) |
-| Streamlit Dashboard           | ✅ Built Successfully     | [amazon_dashboard.py](#)          |
+| Full Amazon Dataset (1.1M+)   | ✅ Loaded Successfully    | [Amazon Products Sales Dataset 2023 - Kaggle](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)           |
+| CSV Merging (140 CSV files)   | ✅ Merged Successfully    | [merge_df.parquet](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/merge_df.parquet)             |
+| Missing Values Imputation     | ✅ Handled Completely     | [Amazon_EDA&Data_Visualization.ipynb](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/Amazon_EDA%26Data_Visualization.ipynb) |
+| Outlier Detection & Handling  | ✅ Processed Successfully | [Amazon_EDA&Data_Visualization.ipynb](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/Amazon_EDA%26Data_Visualization.ipynb) |
+| Feature Engineering           | ✅ Completed              | [Amazon_EDA&Data_Visualization.ipynb](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/Amazon_EDA%26Data_Visualization.ipynb) |
+| Streamlit Dashboard           | ✅ Built Successfully     | [amazon_dashboard.py](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/amazon_dashboard.py)          |
 
 
 ### Artifacts and Resources
-- [GitHub Repository](#)
-- [Dashboard Demo](video2751251323.mp4)
-- [Full Report & Insights](Amazon_EDA&Data_Visualization.ipynb)
+- [GitHub Repository](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/tree/main)
+- [Dashboard Demo](demo.mp4)
+- [Python Code](Amazon_EDA&Data_Visualization.ipynb)
 
 ## Features
 1. **Data Loading and Understanding**:
@@ -68,7 +68,7 @@ The primary goal of this project is to uncover valuable insights from Amazon's e
 
 I have recorded a demo video showcasing the **interactive dashboard** in action. The video demonstrates key insights and functionalities of the dashboard, such as filtering by product categories, viewing pricing trends, and analyzing customer ratings.
 
-[Watch the demo video here](#) *(Replace with actual video link)*
+[Watch the demo video here](demo.mp4) *(Replace with actual video link)*
 
 
 ## Installation
