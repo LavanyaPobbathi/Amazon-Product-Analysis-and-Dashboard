@@ -68,7 +68,7 @@ The primary goal of this project is to uncover valuable insights from Amazon's e
 
 I have recorded a demo video showcasing the **interactive dashboard** in action. The video demonstrates key insights and functionalities of the dashboard, such as filtering by product categories, viewing pricing trends, and analyzing customer ratings.
 
-[Watch the demo video here](demo.mp4) *(Replace with actual video link)*
+[Watch the demo video here](https://drive.google.com/file/d/1hOZNVJVRCSCJf34RRcweGMhm3v_J9njA/view?usp=sharing) 
 
 
 ## Installation
