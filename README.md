@@ -35,7 +35,7 @@ The primary goal of this project is to uncover valuable insights from Amazon's e
 ### Artifacts and Resources
 - [GitHub Repository](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/tree/main)
 - [Dashboard Demo](https://drive.google.com/file/d/1hOZNVJVRCSCJf34RRcweGMhm3v_J9njA/view?usp=sharing)
-- [Python Code](Amazon_EDA&Data_Visualization.ipynb)
+- [Python Code](https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard/blob/main/Amazon_EDA%26Data_Visualization.ipynb)
 
 ## Features
 1. **Data Loading and Understanding**:
