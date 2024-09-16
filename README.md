@@ -89,7 +89,7 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/amazon-dataset-eda-dashboard.git
+   https://github.com/LavanyaPobbathi/Amazon-Product-Analysis-and-Dashboard.git
 
 2. **Install the required packages**:
    ```bash
