@@ -21,7 +21,7 @@ The primary goal of this project is to uncover valuable insights from Amazon's e
 
 | Dataset Type                 | Status                   | Link/Artifact                    |
 |------------------------------|--------------------------|-----------------------------------|
-| Full Amazon Dataset (1.1M+)   | ✅ Loaded Successfully    | [amazon_data folder](#)           |
+| Full Amazon Dataset (1.1M+)   | ✅ Loaded Successfully    | [amazon_data folder](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)           |
 | CSV Merging (140 CSV files)   | ✅ Merged Successfully    | [merge_df.parquet](#)             |
 | Missing Values Imputation     | ✅ Handled Completely     | [Amazon_EDA&Data_Visualization.ipynb](#) |
 | Outlier Detection & Handling  | ✅ Processed Successfully | [Amazon_EDA&Data_Visualization.ipynb](#) |
