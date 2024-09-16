@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+wordcloud
+scikit-learn
+streamlit
+plotly
+Pillow
+streamlit-option-menu
+
