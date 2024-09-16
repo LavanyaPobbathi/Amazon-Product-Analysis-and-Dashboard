@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project demonstrates my ability to handle **large datasets (1.1M+ entries)** effectively. Through **data exploration, cleaning, preprocessing, and visualization**, I've created a **Streamlit dashboard** for dynamic analysis. The project uses **Python**, **Pandas**, and **Streamlit** to provide insights from an e-commerce dataset that includes features like product ratings, categories, prices, and discounts.
+This project demonstrates to handle **large datasets (1.1M+ entries)** effectively. Through **data exploration, cleaning, preprocessing, and visualization**, I've created a **Streamlit dashboard** for dynamic analysis. The project uses **Python**, **Pandas**, and **Streamlit** to provide insights from an Amazon e-commerce dataset that includes features like product ratings, categories, prices, and discounts.
 
 **Key Focus Areas:**
 - Working with large datasets (1.1M+ entries and 145 features).
