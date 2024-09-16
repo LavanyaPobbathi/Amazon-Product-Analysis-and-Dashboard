@@ -2,12 +2,9 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 demo.mp4 filter=lfs diff=lfs merge=lfs -text
-
 # Ignore Mac system files
 .DS_Store
-
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-
 # Ignore Streamlit files (optional)
 .streamlit/
