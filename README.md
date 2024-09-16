@@ -70,6 +70,20 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
 
 [Watch the demo video here](https://drive.google.com/file/d/1hOZNVJVRCSCJf34RRcweGMhm3v_J9njA/view?usp=sharing) 
 
+## Dashboard
+
+### Front Page - Overview
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/dc877c1e-6543-413b-b76d-a1eba8571631">
+
+### Category Analysis 
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/7502f202-f53d-4185-ad60-c7d7d78909cc">
+
+### Price Analysis
+<img width="1490" alt="image" src="https://github.com/user-attachments/assets/31eb6ca4-e763-4f3a-90c5-8752f751186b">
+
+### Advanced Visualizations
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/7334873f-e4af-4aef-b0c1-d309b2f33abb">
+
 
 ## Installation
 
