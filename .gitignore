@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit local config files
+.streamlit/
+
+# Ignore other unnecessary temporary files or logs
+*.log
