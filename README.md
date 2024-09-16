@@ -13,7 +13,7 @@ This project showcases my ability to handle **large datasets (1.1M+ entries)** e
 The primary goal of this project is to uncover valuable insights from Amazon's e-commerce dataset, which includes features such as ratings, product categories, prices, and discounts.
 
 **Key Focus Areas:**
-- Handling large datasets with 1.1M+ entries and 145 features.
+- Handling large datasets with 1.1M+ entries and 145 features which is collected from Kaggle website.
 - Cleaning and preprocessing data, including outlier detection and feature engineering.
 - Developing interactive dashboards for insights visualization using Streamlit.
 - Employing advanced statistical and visual techniques for in-depth analysis.
@@ -112,11 +112,5 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
   - Uncovered insights about product ratings, price discounts, and customer preferences, potentially guiding business strategies.
 
 ## Conclusion
-This project demonstrates my proficiency in working with large datasets and developing data pipelines. I have focused on providing valuable insights through exploratory data analysis, data cleaning, and visualization, complemented by a fully interactive dashboard.
+This project will help how to handle with large datasets for developing data pipelines. I have focused on providing valuable insights through exploratory data analysis, data cleaning, and visualization, complemented by a fully interactive dashboard.
 
-### Key Changes:
-1. **Filenames**: Updated to match the actual files from your project (e.g., `amazon_dashboard.py`, `Amazon_EDA&Data_Visualization.ipynb`, `merge_df.parquet`, `video2751251323.mp4`).
-2. **Demo Video**: The demo video section now links directly to your provided video file (`video2751251323.mp4`).
-3. **Data Files**: The `merge_df.parquet` file is referenced as your merged dataset, and the notebook file (`Amazon_EDA&Data_Visualization.ipynb`) for the EDA process.
-
-You can further customize the links and paths in this README once you upload the repository to GitHub. Let me know if you'd like to adjust anything further!
