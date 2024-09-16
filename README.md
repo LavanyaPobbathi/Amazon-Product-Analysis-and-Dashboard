@@ -96,9 +96,9 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
    pip install -r requirements.txt
    
 3. **Run the Streamlit dashboard**:
-  ```bash
+   ```bash
    streamlit run amazon_dataset.py
-   ```
+   
 
 ## Technologies Used
   - **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
