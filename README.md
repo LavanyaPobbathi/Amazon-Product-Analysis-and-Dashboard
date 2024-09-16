@@ -97,7 +97,7 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
    
 3. **Run the Streamlit dashboard**:
    ```bash
-   streamlit run amazon_dataset.py
+   streamlit run amazon_dashboard.py
    
 
 ## Technologies Used
