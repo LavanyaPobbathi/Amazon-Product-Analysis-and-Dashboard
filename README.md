@@ -112,5 +112,5 @@ I have recorded a demo video showcasing the **interactive dashboard** in action.
   - Uncovered insights about product ratings, price discounts, and customer preferences, potentially guiding business strategies.
 
 ## Conclusion
-This project will help how to handle with large datasets for developing data pipelines. I have focused on providing valuable insights through exploratory data analysis, data cleaning, and visualization, complemented by a fully interactive dashboard.
+This project will help on how to handle with large datasets for developing data pipelines. I have focused on providing valuable insights through exploratory data analysis, data cleaning, and visualization, complemented by a fully interactive dashboard.
 
